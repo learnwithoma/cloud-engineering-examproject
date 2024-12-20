@@ -1,5 +1,9 @@
 # cloud-engineering-examproject
-server provisioning and html page deployment for cloud engineering 2nd semester project 
+server provisioning and html page deployment for cloud engineering 2nd semester project.
+
+MY IP ADDRESS: https://16.170.229.55
+
+My IP Address http://16.170.229.55
 Cloud Engineering 2nd Semester Project: Server Provisioning and HTML Deployment
 
 A clear, step-by-step documentation of how I provisioned the server, installed the web server, deployed the HTML page, and configured networking.
